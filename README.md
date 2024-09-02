@@ -1,8 +1,6 @@
-# Sprint 7 SkipQ Voyager Cohort 
+# Web Health Monitor
 
-In this sprint I used passport.js to create Json Web Token based authentication and authorization functionality of my application for both frontend and backend. I created the 
-landing page, register page and login page using react and material ui. I also created a new users table and made the required modification to the backend to handle registeration 
-login. Finally I updated all my cypress tests to account for authentication in my application and deployed the frontend on netlify instead of S3.
+Web Health Monitor is the only application that you will ever need in order to make sure your concerned web resources are performing as you need them.
 
 ## Getting Started
 

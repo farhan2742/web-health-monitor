@@ -100,7 +100,7 @@ npm run tests
 
 ## Deployed on
 
-* Frontend: Netlify
+* Frontend: [Netlify](https://webhealthmonitor.netlify.app/)
 * Backend: AWS
 
 ## Authors

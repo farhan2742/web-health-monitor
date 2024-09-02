@@ -1,0 +1,62 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.8.2",
+    "@emotion/styled": "^11.8.1",
+    "@frontegg/react": "^4.0.11",
+    "@mui/icons-material": "^5.5.1",
+    "@mui/material": "^5.5.2",
+    "@mui/x-data-grid": "^5.6.1",
+    "@testing-library/jest-dom": "^5.16.2",
+    "@testing-library/react": "^12.1.4",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^0.26.1",
+    "cypress": "^9.5.3",
+    "d3": "^7.3.0",
+    "eslint-plugin-cypress": "^2.12.1",
+    "firebase": "^9.6.10",
+    "highcharts": "^10.0.0",
+    "highcharts-react-official": "^3.1.0",
+    "jwt-decode": "^3.1.2",
+    "moment": "^2.29.1",
+    "prop-types": "^15.8.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-hooks-global-state": "^1.0.2",
+    "react-redux": "^7.2.8",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "5.0.0",
+    "react-with-firebase-auth": "^1.4.0",
+    "redux": "^4.1.2",
+    "redux-thunk": "^2.4.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "cypress": "npx cypress open"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ],
+    "proxy": "https://y4yxfcdy0g.execute-api.us-west-1.amazonaws.com/"
+  }
+}

@@ -1,0 +1,13 @@
+.links {
+    text-decoration: none;
+    color: white;
+    font-size: large;
+}
+
+.footer {
+    padding-top: 20px;
+}
+
+.navbar { 
+    max-height: 4em;
+}

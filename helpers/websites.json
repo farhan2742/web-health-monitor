@@ -1,0 +1,9 @@
+{
+    "URLS_TO_MONITOR": [
+        "http://www.skipq.org",
+        "http://www.google.com",
+        "http://www.ign.com",
+        "http://www.facebook.com",
+        "http://www.aliexpress.com"
+        ]
+}
